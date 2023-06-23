@@ -51,6 +51,11 @@ header {
   justify-content: center;
   padding-top: 48px;
   margin-bottom: 32px;
+  
+}
+
+#about,#album {
+  margin: 0 16px;;
 }
 
 header h1 {
